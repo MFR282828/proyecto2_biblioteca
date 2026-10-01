@@ -1,0 +1,14 @@
+[
+    {
+        "id_libro": 1,
+        "titulo": "nose 1",
+        "autor": "aunose1",
+        "disponible": true
+    },
+    {
+        "id_libro": 2,
+        "titulo": "nose 2",
+        "autor": "aunose2",
+        "disponible": true
+    }
+]
